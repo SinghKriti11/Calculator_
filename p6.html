@@ -38,6 +38,11 @@
                     <input type="button" value="3" onclick="calc.display.value += '3'">
                     <input type="button" value="+" onclick="calc.display.value += '+'" class="operator">
                 </div>
+                <div>
+                    <input type="button" value="00" onclick="calc.display.value += '00'">
+                    <input type="button" value="0" onclick="calc.display.value += '0'">
+                    <input type="button" value="=" onclick="calc.display.value = eval(calc.display.value)" class="equal operator">
+                </div>
             </form>
         </div>
     </div>
