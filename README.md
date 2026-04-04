@@ -8,7 +8,7 @@ A modern and stylish **Calculator Web App** built using **HTML, CSS, and JavaScr
 
 *  **Glassmorphism UI** 
 *  **Keyboard Support**
-*  Basic Arithmetic Operations (+, −, ×, ÷)
+*  Basic Arithmetic Operations(+, −, ×, ÷)
 *  **AC (Clear All)** button
 *  **Delete (Backspace)** functionality
 *  Real-time input display
